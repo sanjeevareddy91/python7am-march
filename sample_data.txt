@@ -1,0 +1,4 @@
+This is the first sample text file.
+Python is the programming language used to perform this file operation.
+All formats of file cannot be read directly using python, we need to use for packages..
+Django is the web framework for python.
